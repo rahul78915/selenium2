@@ -13,4 +13,8 @@ public class demomaven {
 	
 
 }
+	public void test2(){
+		System.out.println("Hello to maven project3");
+	
+
 }
