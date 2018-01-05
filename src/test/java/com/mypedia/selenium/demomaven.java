@@ -8,5 +8,9 @@ public class demomaven {
 	public void test(){
 		System.out.println("Hello to maven project");
 	}
+	public void test1(){
+		System.out.println("Hello to maven project1");
+	
 
+}
 }
